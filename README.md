@@ -1,1 +1,2 @@
 # K-Nearest-Neighbors---model
+Here  i have mate K-Nearest Neighbors  model to predict type of service on based of dataset 'teleCust1000t.csv' and i have test model from diffrent accuracy you can check it and if you find any mistake or any easy way to find it plese send me pull request i will see it and merge it if it is okay and i have explained some topics in comments so you can also tell me if i have made mistake on them 
